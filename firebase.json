@@ -1,6 +1,9 @@
-{
-  "firestore": {
-    "rules": "firestore.rules",
-    "indexes": "firestore.indexes.json"
-  }
-}
+const firebaseConfig = {
+  apiKey: "AIzaSyCD73kkzOe-YnLUZxgTWgNad_mlt2CuunA",
+  authDomain: "loginfirebaseflutter-1033a.firebaseapp.com",
+  projectId: "loginfirebaseflutter-1033a",
+  storageBucket: "loginfirebaseflutter-1033a.firebasestorage.app",
+  messagingSenderId: "264070742144",
+  appId: "1:264070742144:web:65b2d991a7de2fcb782665",
+  measurementId: "G-SFPGMDRHB6"
+};

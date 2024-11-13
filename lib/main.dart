@@ -6,7 +6,6 @@ import 'app.dart';
 
 // Replace YOUR_CLIENT_ID with your own client ID
 const clientId = 'YOUR_CLIENT_ID';
-
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
   await Firebase.initializeApp(
